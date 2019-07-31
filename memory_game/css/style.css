@@ -1,10 +1,24 @@
 h1 {
-font-family: "Droid Serif", sans-serif;
-font-weight: 400;
+	font-family: Raleway;
+	font-weight: 400;
+	color: #0D2C40;
+	letter-spacing: 1px;
+	font-size: 45px;
 }
 
+h2 {
+	font-family: Raleway;
+	font-weight: 600;
+	color: #0D2C40;
+	letter-spacing: 1px;
+	font-size: 20px;
+}
+
+
 p {
-font-family: "Droid Serif", sans-serif;
+	font-family: "Droid Serif", sans-serif;
+	line-height: 26px;
+	font-size: 18px;
 }
 
 body {
@@ -18,4 +32,9 @@ h1, h2, h3, h4 {
 a:link, a:visited {
 	text-transform: uppercase;
 	text-decoration: none;
+	font-family: Raleway;
+	color: #F15B31;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 16px;
 }
