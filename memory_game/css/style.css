@@ -9,5 +9,8 @@ font-family: "Droid Serif", sans-serif;
 
 body {
 	text-align: center;
-	text-decoration: none;
+}
+
+.link h1 {
+	text-transform: uppercase;
 }
