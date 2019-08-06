@@ -24,12 +24,13 @@ const cards = [
 
 let cardsInPlay = [];
 
+
 function checkForMatch() {
 	if (cardsInPlay.length === 2) {
 	if (cardsInPlay[0] === cardsInPlay[1]) {
 			alert('You found a match!');
 	}	else {
-			alert('Sorry, try again.');
+			('Sorry, try again.');
 			}
 	}
 }
